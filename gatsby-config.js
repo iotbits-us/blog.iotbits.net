@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteTitle: 'IOTBITS Blog',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteDescription: 'IOTBITS articles, notes, videos and links',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://blog.iotbits.net/',
     pathPrefix: '/',
@@ -19,7 +19,7 @@ module.exports = {
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/`
       },
       {
         icon: `github`,
