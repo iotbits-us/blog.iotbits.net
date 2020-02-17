@@ -33,6 +33,13 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: path.join(__dirname, `static`, `media`),
+        name: 'media'
+      }
+    },
+    {
       resolve: 'gatsby-theme-chronoblog',
       options: {
         uiText: {
@@ -79,6 +86,14 @@ module.exports = {
         // replace "UA-XXXXXXXXX-X" with your own Tracking ID
         trackingId: 'UA-158635021-1'
       }
-    }
+    },
+    {
+      resolve: 'gatsby-plugin-netlify-cms',
+      options: {
+        publicPath: `admin`,
+        modulePath: path.join(__dirname, `src`, `netlifycms`, 'cms.js')
+      }
+    },
+    'gatsby-plugin-netlify' // make sure to keep it last in the array
   ]
 };
