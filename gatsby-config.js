@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'IOTBITS Blog',
-    siteDescription: 'IOTBITS articles, notes, videos and links',
+    siteTitle: 'IOTBITS - Blog',
+    siteDescription: 'IOTBITS articles, tutorials, notes, videos and links',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://blog.iotbits.net/',
     pathPrefix: '/',
