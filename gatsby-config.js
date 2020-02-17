@@ -17,10 +17,10 @@ module.exports = {
         icon: `youtube`,
         url: `https://www.youtube.com/channel/UCWUi3F8CQTt2Cm-EEviW8mQ`
       },
-      // {
-      //   icon: `twitter`,
-      //   url: `https://twitter.com/ganevru`
-      // },
+      {
+        icon: `twitter`,
+        url: `https://twitter.com/ganevru`
+      },
       {
         icon: `github`,
         url: `https://github.com/iotbits-us`
