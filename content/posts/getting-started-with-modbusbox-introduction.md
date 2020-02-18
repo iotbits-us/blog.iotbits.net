@@ -1,6 +1,6 @@
 ---
 title: Getting started with ModbusBox - Introduction
-cover: /media/mbox.jpg
+cover: /media/ModbusBox-Banner.png
 date: 2020-02-17T20:49:03.745Z
 description: Basic guide to start using ModbusBox
 tags:
