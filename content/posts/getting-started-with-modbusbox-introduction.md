@@ -11,9 +11,9 @@ ModbusBox advanced version can be easily customized to add new Slaves and functi
 
 **General Features.**
 
-WIFI ready. 
-Modbus RTU /RS485 (2 wires) half duplex.  
+WIFI ready.  Modbus RTU /RS485 (2 wires) half duplex.\
 Built-in Modbus library with examples ( Makers version). 
+
 AP mode allow setup: Modbus registers, WIFI connection and MQTT server. 
 Client mode is the default mode which it get connected to WIFI (internet) .
 Built-in web server available in AP and Client Mode.
@@ -28,30 +28,25 @@ Multistate pixel led.
 WIFI connection status.
 MQTT connection failure.
 Modbus read failure.
-**Modbus specs.** 
-Functions codes supported.        
-0x3 :Read multiple 16bit holding registers.  
-0x4 :Read multiple 16bit input register.
-32 bits register and floating points.
+**Modbus specs.**  Functions codes supported.\
+0x3 :Read multiple 16bit holding registers.\
+0x4 :Read multiple 16bit input register. 32 bits register and floating points.
 32bit data types (integer and float)  uses  contiguous array of  2x16bit registers.
 Support for IEEE 754 format floating-point.
 Maximum number of slaves ( model dependent).
 MB-B1Wxx : Support  1 slave.
 MB-A4Wxx : Support 4 slaves.
 
-**IoT protocol specs.** 
-MQTT with TLS Encryption. 
+**IoT protocol specs.**  MQTT with TLS Encryption. 
 ModbusBox pack each slave data  in Json Object containing all selected devices    registers. 
 
 ModbusBox also send Json Object with variables indicating its own the operational status, like the ip addresses, SSID which is connected, running time, and SSID strength.
 
-**Supported web browsers.**
-Google chrome ( Os :Windows,  Android, Ubuntu, iOS). 
+**Supported web browsers.** Google chrome ( Os :Windows,  Android, Ubuntu, iOS). 
 Safari ( Os : iOs).
 Firefox (Os: Windows & Ubuntu)
 
-**Tested IoT Platforms.** 
-Node-red.
+**Tested IoT Platforms.**  Node-red.
 Ubidots.
 Amazon AWS IoT.
 
