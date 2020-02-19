@@ -12,7 +12,7 @@ ModbusBox advanced version can be easily customized to add new Slaves and functi
 **General Features.**
 
 WIFI ready.  Modbus RTU /RS485 (2 wires) half duplex.\
-Built-in Modbus library with examples ( Makers version). 
+Built-in Modbus library with examples ( Makers version).
 
 AP mode allow setup: Modbus registers, WIFI connection and MQTT server. 
 Client mode is the default mode which it get connected to WIFI (internet) .
