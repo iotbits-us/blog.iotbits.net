@@ -1,6 +1,6 @@
 ---
 title: ModbusBox General Information
-cover: /media/Sys2.jpg
+cover: /media/System3.png
 date: 2020-02-17T20:49:03.745Z
 description: Basic guide to start using ModbusBox
 tags:
