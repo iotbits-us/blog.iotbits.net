@@ -8,4 +8,4 @@ tags:
   - IOTVFD
   - ACDrives
 ---
-A successfully test was conducted adding today adding big brand name to the VFD's supported by ModbusBox. 
+A successfully test was conducted  today  with ModbusBox and Ubidots,  adding  a big brand name to the VFD's supported by ModbusBox. 
