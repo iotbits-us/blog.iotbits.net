@@ -1,5 +1,5 @@
 ---
-title: Now ModbusBox supports Danfoss VFD
+title: Now ModbusBox supports Danfoss VFD's
 cover: /media/UBI-danfoss.jpg
 date: 2020-02-24T03:04:31.235Z
 tags:
@@ -9,3 +9,4 @@ tags:
   - ACDrives
 ---
 A successfully test was conducted  today  with ModbusBox and Ubidots,  adding  a big brand name to the VFD's supported by ModbusBox. 
+Test was carried with VLT HVAC Drive  FC 102.
