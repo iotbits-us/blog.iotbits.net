@@ -41,7 +41,7 @@ ModbusBox is easy to use thanks to its embedded Web-UI accessible via Wi-Fi.  Wh
 
 
 
-![sample-integration-scheme-with-ubidots](D:\sample-integration-scheme-with-ubidots.png)
+![sample-integration-scheme-with-ubidots](/media/sample-integration-scheme-with-ubidots.png)
 
 **Figure 1**
 
@@ -71,7 +71,7 @@ Please observe carefully the ModbusBox hardware, we recommend to print this sect
 
 
 
-![modbusbox-hardware-description](D:\modbusbox-hardware-description.png)
+![modbusbox-hardware-description](/media/modbusbox-hardware-description.png)
 
 **Figure 2**
 
@@ -88,7 +88,7 @@ Both devices are identical from the hardware point of view. What makes them diff
 
 
 
-![modbusbox-connect-eastron](D:\modbusbox-connect-eastron.png)
+![modbusbox-connect-eastron](/media/modbusbox-connect-eastron.png)
 
 **Figure 3**
 
@@ -98,7 +98,7 @@ Both devices are identical from the hardware point of view. What makes them diff
 
 As you can see in **Figure 4**, there are three control buttons located on the PCB. These control buttons allows the user to switch between operation modes and to perform other advanced procedures.
 
-![modbusbox-control-buttons](D:\modbusbox-control-buttons.png)
+![modbusbox-control-buttons](/media/modbusbox-control-buttons.png)
 
 **Figure 4**
 
@@ -108,7 +108,7 @@ The **Setup** control button is used to put the device in **Setup Mode** and the
 
 When the ModbusBox is started with its factory configuration, there is no procedure required to enter in setup mode, in such scenario the device enters automatically in setup mode as soon it powers on. When in Setup Mode a Wi-Fi network search can take place in your Android/iOS mobile device or PC and look for SSID name **MB-B1W**  or **MB-A4W** follow by other characters that represents the unique identification of the chip as shown bellow in **Figure 5**.
 
-![modbusbox-ap-ssid-pc](D:\modbusbox-ap-ssid-pc.png)
+![modbusbox-ap-ssid-pc](/media/modbusbox-ap-ssid-pc.png)
 
 **Figure 5**
 
